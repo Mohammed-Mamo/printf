@@ -7,7 +7,7 @@
  * @r: string to print
  * Return: number of printed characters
  */
-int print_r(va_list r)
+int print_t(va_list S)
 {
 	char *str;
 	int i = 0, counter = 0;
